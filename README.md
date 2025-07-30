@@ -1,1 +1,1 @@
-# coddy-tech-solutions
+# coddy.tech solutions
