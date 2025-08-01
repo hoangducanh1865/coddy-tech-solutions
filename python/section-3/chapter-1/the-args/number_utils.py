@@ -4,7 +4,7 @@ def sum_all_numbers(*args):
     
     for arg in args:
         # if isinstance(arg, bool) or not isinstance(arg, (int, float)):
-        if type(arg) == bool or (type(arg) != int and type(arg) != float):
+        if type(arg) != int and type(arg) != float:
             print("Error: All arguments must be numbers")
             return None
     
