@@ -1,3 +1,1 @@
-# Created on iPhone.
-
-print("Hello World!")
+print("Test code on iPhone successfully!")
